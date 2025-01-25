@@ -13,7 +13,7 @@ Here are a few examples of some of the ranks in the pack! <br>
 Dowload the [Java Pack](https://github.com/ElecYT/elec-custom-ranks/tree/main/java-pack).
 
 ### Bedrock Pack 
-Please purchase the premium version for $1 here (you can get a bunch of other cool stuff too!): 
+Please purchase the premium version for $1 here (you can get a bunch of other cool stuff too!): https://ko-fi.com/s/ebc5bdec73
 
 ### Java Pack
 If you want to install it on the client side, press Windows Key + R and type %appdata%. Now you can open the .minecraft folder and then the resourcepacks folder. Drag in the **"elecs-rank-pack-java.zip"** file. Now go into Minecraft and apply the resource pack! <be>
@@ -57,4 +57,4 @@ Copy these symbols for the corresponding rank!
 ### Java Version Customization + LuckPerms Customization
 Watch [this detailed video](https://youtu.be/U12ve5kCDfQ?si=Vl3MFGdH3c5RcS87) on setting up your custom ranks for Java!
 ### Bedrock Version Customization
-Please purchase the premium version for $1 here (you can get a bunch of other cool stuff too!): 
+Please purchase the premium version for $1 here (you can get a bunch of other cool stuff too!): https://ko-fi.com/s/ebc5bdec73
